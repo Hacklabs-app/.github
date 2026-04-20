@@ -1,17 +1,14 @@
 <div align="center">
-  <img src="logo.svg" width="200" height="auto" />
+  <img src="logo.svg" width="180" />
 </div>
 
 # Hacklabs
 
-A technical community focused on engineering fundamentals. 
-We prioritize deep understanding over shortcuts.
+Technical community returning to engineering fundamentals.
+Understanding how it works before reaching for the shortcut.
 
-Focus areas:
-- Backend & DevOps
-- Internet of Things (IoT)
-- Artificial Intelligence (AI)
+**Focus:** Backend/DevOps • IoT • AI
 
-Status: Open and early.
-Website: [hacklabs.app](https://hacklabs.app)
+Early and open.
+Waitlist: [hacklabs.app](https://hacklabs.app)
 Updates: [github.com/hacklabs-app](https://github.com/hacklabs-app)
